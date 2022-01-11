@@ -19,14 +19,29 @@ The main point of this question is understanding the nuances of conflict with re
 
 1. Using the facets search builder on heurist, we narrow down the events in which conflict took place (this can be of any kind) and what the motivation behind that was.
 
+2. Using the same, we explore the cause of death of characters with respect to religion. This gives us a good birds eye view of how many members of a particular religion are dying and also the reason behind it. We can assess if members of a particular religion faced more persecution than others in our analysis.
+
 ## Crosstab
 
 #### 1. Conflict Type and Counts
 
+<center>
 ![](chart_01.png)
+</center>
+#### 2. Religion and Cause of Death Counts
+
+<center>
+
+![](chart_02.png)
+
+</center>
 
 ## Analysis
 
 1. As we can clearly see from the first chart, **Religion** seems to be the primary motivating factor behind acts of conflict. Counts of conflict arising due to religious reasons, account for a whopping 50+ percent of the total counts in the chart. That means that even if we summed all the other conflicts (for whatever reason), they would amount to lesser than that due to religion. Another interesting observation is that conflict motivated by **Nation** is the 3 largest cause. While both **Religion** and **Nation** have been listed as different types in the data, we must also keep in mind that the partition itself was primarily driven by **Religion**, indicating there may be some correlation. The same has been indicated in the data visualization below:
 
+<center>
+
 ![](analysis_01.png)
+
+</center>
