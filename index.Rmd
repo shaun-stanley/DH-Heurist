@@ -1,5 +1,5 @@
 ---
-title: "Title to Come | Exploring Religion and Violence during the Partition."
+title: "Religious Identity, Territory & Partition | Exploring Religion and Violence during the Partition."
 author: "Shaun Stanley"
 date: "08/01/2022"
 output: html_document
@@ -50,7 +50,7 @@ The main point of this question is understanding the nuances of conflict with re
 
 <center>
 
-![](analysis_02_01.png)
+![](analysis_02_02.png)
 
 </center>
 
