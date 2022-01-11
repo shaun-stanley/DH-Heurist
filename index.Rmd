@@ -42,10 +42,17 @@ The main point of this question is understanding the nuances of conflict with re
 
 <center>
 
-![](analysis_01_01.png)
+![](analysis_01_02.png)
 
 </center>
 
 2. From the second chart, we can see that the number of deaths in most religions barring **Hindu**, **Muslim**, and **Sikh** is negligible. While this makes sense for Hindu's and Muslim's, as both of them form the majority of population in India (both divided as well as undivided), the high number of Sikh deaths may seem surprising. However, this is explained by the fact that a large percentage of people from the partition (Punjab, states belonged to the Sikh community.
+
+<center>
+
+![](analysis_02_01.png)
+
+</center>
+
 
 3. 32.79% of the total deaths were **Muslims**. This is abnormally high, considering it is 80% higher than the number of **Hindu** deaths and 100% higher than the **Sikh** deaths. A reason for this could possibly be a higher **Muslim** population (we will inquire this thoroughly in the next analysis). 
