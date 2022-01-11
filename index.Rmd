@@ -1,6 +1,7 @@
 ---
 title: "Title to Come | Exploring Religion and Violence during the Partition."
 author: "Shaun Stanley"
+date: "08/01/2022"
 output: html_document
 ---
 
@@ -8,22 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Research Question
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+*How does religion affect the amount and nature of conflict one commits?*
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+The main point of this question is understanding the nuances of conflict with respect to religion in various forms. This study will explore both conflict that results in one’s death as well as conflict that does not. We will first have a look at different motives behind conflict and how a religious motive compares to others. This can give us an interesting look at how religion played a part in conflict during the partition. As it is likely that the followers of one religion may be much higher than others, expressing the acts of conflict as a % will give us a much clearer picture. A % > 100 may suggest members of a particular religion seem to be overly violent based on the data input on heurist.
