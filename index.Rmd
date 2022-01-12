@@ -32,7 +32,7 @@ The main point of this question is understanding the nuances of conflict with re
 
 <center>
 
-![](chart_02.png)
+![](chart_02_02.png)
 
 </center>
 
@@ -56,3 +56,10 @@ The main point of this question is understanding the nuances of conflict with re
 
 
 3. 32.79% of the total deaths were **Muslims**. This is abnormally high, considering it is 80% higher than the number of **Hindu** deaths and 100% higher than the **Sikh** deaths. A reason for this could possibly be a higher **Muslim** population (we will inquire this thoroughly in the next analysis). 
+
+<center>
+
+![](analysis_03.png)
+</center>
+
+4. As we can see in the above chart, the a lot of our suspicions were in fact, correct. The 80% higher number of **Muslim** deaths than **Hindus"** is explained by the 100% larger number of characters that it boasts. Surprisingly though, this brings into light that the proportion of **Hindu** deaths to its population is 1/4 higher than that of **Muslims**, suggesting they may have suffered more during the events of the partition. Of course, this could also be merely because of the events that have been included in the **data set**, but a 20% higher number definitely stands out. The way we come to this conclusion is that **Muslim** population accounts for 32.X% of the population, as well as 32.X% of total deaths, whereas **Hindu** population accounts for 16.X% of the total population and 19.X% of the total deaths.
