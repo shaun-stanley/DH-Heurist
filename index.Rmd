@@ -76,4 +76,24 @@ The main point of this question is understanding the nuances of conflict with re
 ![](analysis_05_01.png)
 </center>
 
-6. Unfortunately, this also seems to be a dead end, since the number of events that take place in **India** are **25%** higher than those taking place in **Pakistan**. This again, does not explain the higher death rate of **Hindus**, as based on our previous data, we found that a higher number of **Hindus** were born in **Pakistan** as opposed to **India**.
+6. Unfortunately, this also seems to be a dead end, since the number of events that take place in **India** are **25%** higher than those taking place in **Pakistan**. This again, does not explain the higher death rate of **Hindus**, as based on our previous data, we found that a higher number of **Hindus** were born in **Pakistan** as opposed to **India**. An alternate theory could also be that the higher number of **Hindu** deaths occur as they were trying to flee to **India**, and while the **event** took place in **India** they died. However, the data set does not have adequate data to prove this theory.
+
+## Reflection
+
+The process of data entry had **Pros** as well as **Cons**. As a member of a group (while entering the data), my responsibility was to read only **3** of the texts, extract characters, events, locations, etc. and enter the data systematically in heurist. Entering the data helped me get comfortable with heurist and poke around to understand the possibilities, which in turn aided the **Analysis** that I have conducted now. Moreover, it promoted the habit of looking at texts as data, extract quantitative information from it, and use it to infer and test hypothesis.
+
+However, a major con would be that since I only read a small subset of all the texts that have been entered in the data set, I made assumptions about certain things that were found to not be true once I took a birds eye view of the data. This is perhaps because these one of events occurred only in some of the texts (which happened to be mine). This could be a major problem in any kind of inquiry, as it may plague the one's brain with **confirmation bias**.
+
+One a personal note, I found this method of inquiry much better than that of **Voyant**, as one could quickly find definite answers to questions (or know that they cannot due to insufficient data), and then jump onto the next question to explore alternate theories. Moreover, the database has a much easier learning curve than **R** which makes it beginner friendly, which encourages one to get their hands dirty immediately as opposed to spending hours understanding different **R libraries** and its syntax. While I do understand **R** would definitely be a much better to tool to employ in larger studies, as the possibilities as limitless and one could create their own libraries as and when required, the ease of getting started with the **Heurist data set** definitely stimulated interest in me, because of which I spent much more time on this project out of sheer curiosity.
+
+The data set does come with its fair share of limitations as well though. Most obviously, there no context at all surrounding any of the data present. For example, in the data surrounding one's deaths, there was no information about the **motive** behind or who the attacker was. This was one data point that affected this particular study, as understanding the (numerical) relation between which religions killed which ones could aid in proving its theories. Moreover, the fact that we could only zone in on fields of a particular kind at once (Events/Characters/Locations), made the scope of the relations we could draw rather limiting.
+
+Another limitation would be understanding the environment in which events took place. As I had already read a subset of the texts present in the data base, I had a rough idea of what the study dealt with. But for someone who has not read any of the texts, drawing conclusions from merely the data could lead to several inaccurate theories.
+
+What this data set excels incredibly at is giving a birds eye view of several statistics that can be easily quantified. This can aid someone in extracting larger inferences from the text, which can be very powerful.
+
+
+
+
+
+
