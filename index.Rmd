@@ -62,4 +62,9 @@ The main point of this question is understanding the nuances of conflict with re
 ![](analysis_03.png)
 </center>
 
-4. As we can see in the above chart, the a lot of our suspicions were in fact, correct. The 80% higher number of **Muslim** deaths than **Hindus"** is explained by the 100% larger number of characters that it boasts. Surprisingly though, this brings into light that the proportion of **Hindu** deaths to its population is 1/4 higher than that of **Muslims**, suggesting they may have suffered more during the events of the partition. Of course, this could also be merely because of the events that have been included in the **data set**, but a 20% higher number definitely stands out. The way we come to this conclusion is that **Muslim** population accounts for 32.X% of the population, as well as 32.X% of total deaths, whereas **Hindu** population accounts for 16.X% of the total population and 19.X% of the total deaths.
+4. As we can see in the above chart, the a lot of our suspicions were in fact, correct. The 80% higher number of **Muslim** deaths than **Hindus"** is explained by the 100% larger number of characters that it boasts. Surprisingly though, this brings into light that the proportion of **Hindu** deaths to its population is 1/4 higher than that of **Muslims**, suggesting they may have suffered more during the events of the partition. Of course, this could also be merely because of the events that have been included in the **data set**, but a 20% higher number definitely stands out. The way we come to this conclusion is that **Muslim** population accounts for 32.X% of the population, as well as 32.X% of total deaths, whereas **Hindu** population accounts for 16.X% of the total population and 19.X% of the total deaths. However, we should also investigate the country a person was born in (Pakistan/India), as that's more likely to give us a better picture since **Pakistan** predominantly has a **Muslim** population, whereas **India** has a **Hindu** one.
+
+<center>
+
+![](analysis_04.png)
+</center>
