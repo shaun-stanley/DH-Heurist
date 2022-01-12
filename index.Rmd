@@ -69,4 +69,11 @@ The main point of this question is understanding the nuances of conflict with re
 ![](analysis_04.png)
 </center>
 
-5. What's surprising is that the number of **Muslims** born in **India** is higher than that in **Pakistan**, and the number of **Hindus** born in **Pakistan** is higher than those born in **India**. 
+5. What's surprising is that the number of **Muslims** born in **India** is higher than that in **Pakistan**, and the number of **Hindus** born in **Pakistan** is higher than those born in **India**. This completely throws off our assumption that **Pakistan** would have more **Muslims**, and **India** would have a higher population of **Hindus**. Inquiring using the facet builder in heurist also does not seem to give us data using which we could accurately infer why this is, as our assumption is based on statistics that stand completely true in the concurrent. So far, nothing seems to have explained in definite numerical terms the higher death rate of **Hindus** as compared to **Muslims**. We can still however, explore the location of said events, as that could also give us a clue as to why that is.
+
+<center>
+
+![](analysis_05_01.png)
+</center>
+
+6. Unfortunately, this also seems to be a dead end, since the number of events that take place in **India** are **25%** higher than those taking place in **Pakistan**. This again, does not explain the higher death rate of **Hindus**, as based on our previous data, we found that a higher number of **Hindus** were born in **Pakistan** as opposed to **India**.
